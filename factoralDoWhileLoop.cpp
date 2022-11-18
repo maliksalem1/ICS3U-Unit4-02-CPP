@@ -7,10 +7,10 @@
 #include <iostream>
 #include <string>
 
-int positiveInteger;
-int loopCounter = 0;
-int multiplyInt = 1;
-std::string positiveString;
+    int positiveInteger;
+    int loopCounter = 0;
+    int multiplyInt = 1;
+    std::string positiveString;
 
 int main() {
     // This function multiplies all the whole numbers up to the inputted number
